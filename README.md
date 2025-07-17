@@ -115,5 +115,4 @@ The CAN protocol uses a structured data frame for reliable message transfer betw
 /docs
 └── MINOR_REPORT_FINAL.pdf
 
-/images
-└── setup_diagram.png
+
