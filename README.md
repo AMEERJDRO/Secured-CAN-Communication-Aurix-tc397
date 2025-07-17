@@ -50,7 +50,8 @@ The CAN protocol uses a structured data frame for reliable message transfer betw
 
 
 ### Hardware Setup
-![Uploading image.png…]()
+<img width="1188" height="611" alt="image" src="https://github.com/user-attachments/assets/bd48217b-f81c-4e9c-b043-8a476f81824b" />
+
 
 
 - 2 × AURIX TC397 Boards
