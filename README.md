@@ -6,6 +6,28 @@
   <img src="https://img.shields.io/badge/BusMaster-Attack%20Simulation-red" />
 </p>
 
+> **Project Title:** _"Secured CAN Communication and Attack Simulation on Infineon AURIX TC397"_  
+> **Academic Year:** 2024–2025  
+> **Institution:** KLE Technological University, Hubballi  
+> **Department:** School of Electronics and Communication Engineering
+
+---
+
+## 👨‍💻 Project Team
+
+| Name               | USN              |
+|--------------------|------------------|
+| Amir Nadaf         | 01FE22BEC136     |
+| Abhijeet Naik      | 01FE22BEC155     |
+| Shrinidhi Sunadholi| 01FE22BEC153     |
+| Vinayak Ganjihal   | 01FE22BEC126     |
+
+**Guide:** Dr. Prabha Nissimagoudar  
+**Head of Department:** Dr. Suneeta V Budihal
+
+---
+
+
 ---
 
 ## 📘 Abstract
