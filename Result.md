@@ -4,6 +4,8 @@ This document presents the **experimental results and findings** from our projec
 🔐 _"Secured CAN Communication and Attack Simulation on Infineon AURIX TC397"_
 
 ---
+<img width="557" height="554" alt="image" src="https://github.com/user-attachments/assets/10c621ba-ec0d-42f3-bbc0-598b61c3dd2d" />
+
 
 ## ✅ Summary of Experiments
 
